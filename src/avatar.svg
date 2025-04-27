@@ -1,0 +1,11 @@
+<!-- Simple vector avatar illustration you can customize with your style -->
+<svg viewBox="0 0 160 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="160" height="160" rx="32" fill="#8d5cff"/>
+  <ellipse cx="80" cy="88" rx="44" ry="40" fill="#E6E6E6"/>
+  <ellipse cx="80" cy="95" rx="30" ry="24" fill="#C9C9C9"/>
+  <rect x="56" y="120" width="48" height="24" rx="12" fill="#C9C9C9"/>
+  <ellipse cx="80" cy="60" rx="32" ry="32" fill="#2D0C4B"/>
+  <ellipse cx="80" cy="58" rx="28" ry="30" fill="#6B3FC9"/>
+  <!-- Hair -->
+  <path d="M50 54 Q80 20 110 54 Q100 44 80 44 Q60 44 50 54 Z" fill="#2D0C4B"/>
+</svg>
